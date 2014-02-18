@@ -1,6 +1,6 @@
 # Trak.io API client for Python
 
-Use this library to integrate your Python service with [trak.io](www.trak.io).
+Use this library to integrate your Python app with [trak.io](www.trak.io).
 Used by [UserApp](www.userapp.io) to provide their trak.io addon functionality.
 
 ### Install with [pip](https://pypi.python.org/pypi/trakio/)
